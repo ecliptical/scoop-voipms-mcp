@@ -1,16 +1,16 @@
 {
-  "version": "0.13.2",
+  "version": "0.13.3",
   "description": "Local MCP server for VoIP.ms that keeps your API credentials on this machine",
   "homepage": "https://voipms-mcp.ecliptical.io",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ecliptical/homebrew-voipms-mcp/releases/download/v0.13.2/voipms-mcp-x86_64-pc-windows-msvc.zip",
-      "hash": "ebc66d428c2fe639737c40035812b0d1bd96c1624a4fedb2523d65660ee42361"
+      "url": "https://github.com/ecliptical/homebrew-voipms-mcp/releases/download/v0.13.3/voipms-mcp-x86_64-pc-windows-msvc.zip",
+      "hash": "e3a7078bd1a255a79bf982afaae22154c94ddcfe3cbd8138d11193eb82f7a6a2"
     },
     "arm64": {
-      "url": "https://github.com/ecliptical/homebrew-voipms-mcp/releases/download/v0.13.2/voipms-mcp-aarch64-pc-windows-msvc.zip",
-      "hash": "fe94b8f4ea399d1cc3a3c6737da1f0f004855bb17f4146a057874c074bf5625e"
+      "url": "https://github.com/ecliptical/homebrew-voipms-mcp/releases/download/v0.13.3/voipms-mcp-aarch64-pc-windows-msvc.zip",
+      "hash": "a492c2062ba5778447c135a1dc30dfbca304731146c1642db2e7c66de56084fd"
     }
   },
   "bin": "voipms-mcp.exe"
